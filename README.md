@@ -1,2 +1,2 @@
-# BarberAgenda
-Projeto da barbearia com agenda de horarios 
+ #Barber, Agenda
+Projeto da barbearia com agenda de horarios.
